@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMMalika
 - 👀 I’m interested in ...Web dedvelopment and programmer
-- 🌱 I’m currently learning ...Bsc in Information Communication and Technology 3rd yera
+- 🌱 I’m currently learning ...developing projects in REACT and Django
 - 💞️ I’m looking to collaborate on ...Web design and programing project
 - 📫 How to reach me ...cal 254708831776
 
